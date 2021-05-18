@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonyrapa
 - 👀 I’m interested in becoming a JavaScript Ninja.
 - 🌱 I’m currently learning JavaScript in more depth.
-- 💞️ I’m looking to collaborate on niothing at the moment.https://github.com/tonyrapa/tonyrapa
+- 💞️ I’m looking to collaborate on nothing at the moment.https://github.com/tonyrapa/tonyrapa
 - 📫 How to reach me - not yet!
 
 <!---
